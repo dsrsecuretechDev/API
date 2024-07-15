@@ -5,7 +5,7 @@
 To run this application locally, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine
-   git clone https://github.com/dsrsecuretechDev/API
+   git clone https://github.com/dsrsecuretechDev
 
 2. **Install Dependencies**: Navigate into the cloned repository directory and install the dependencies using:
    `cd dsrsecuretechDev`
